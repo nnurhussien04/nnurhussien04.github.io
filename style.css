@@ -153,6 +153,7 @@ form > input{
 
 
 
+
 footer{
     background-color: #388e3c;
     color:#fff59d;
@@ -189,4 +190,9 @@ footer > h2{
     text-decoration: none;
     color: #fff59d;
 }
+
+#footer-ul > li > a:hover{
+    color:#dce775;
+}
+
 
